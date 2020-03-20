@@ -4,7 +4,7 @@
 #ifndef __KERNEL__
 
 /*******************************************************************************
- * NOTE : Definitions and includes for user-space bandwidth lock library only
+ * NOTE : Definitions and includes for user-space library only
  ******************************************************************************/
 
 #include <stdio.h>
